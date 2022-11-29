@@ -70,7 +70,7 @@ Download the code from GITHUB
 
 ```sh
 git pull origin master 
-<br/>https://github.com/prabhaReloaded/TradeMe_AutomationProject.git
+<br/>https://github.com/reach2prabakar/TradeMe_AutomationTest.git
 ```
 
 Open the project in any IDE (Intellij preferred)
