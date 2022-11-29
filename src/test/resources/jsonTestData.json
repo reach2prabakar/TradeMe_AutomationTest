@@ -1,0 +1,10 @@
+{
+  "uri": "https://api.trademe.co.nz",
+  "getCars": {
+    "endpoint":"/v1/Categories/UsedCars.json",
+    "method" : "get",
+    "auth" : "noAuth",
+    "header": "",
+    "requestBody": ""
+  }
+}
